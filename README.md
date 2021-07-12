@@ -1,4 +1,4 @@
-## Desenvolvendo de sistema de gerenciamento de pessoas em API REST com Spring Boot
+## Desenvolvimento de sistema de gerenciamento de pessoas em API REST com Spring Boot
 #Bootcamp GFT Starter#2 - Java
 
 Projeto desenvolvido durante o bootcamp  [GFT](https://www.gft.com/br/pt/index/) Starter#2 - Java - [Digital Innovation One](https://digitalinnovation.one/)
